@@ -1,0 +1,9 @@
+
+
+REACT_APP_API_KEY = AIzaSyABxQ2x24Dmw5XrJvfiSw7rDiA2TzW_yZk
+REACT_APP_AUTH_DOMAIN = mytwitter-7eded.firebaseapp.com
+REACT_APP_DATABASE_URL = https://mytwitter-7eded-default-rtdb.firebaseio.com/
+REACT_APP_PROJECT_ID = mytwitter-7eded
+REACT_APP_STORAGE_BUCKET = mytwitter-7eded.appspot.com
+REACT_APP_MESSAGIN_ID = 94896985512
+REACT_APP_APP_ID = 1:94896985512:web:f36f76f8611251e345399d
