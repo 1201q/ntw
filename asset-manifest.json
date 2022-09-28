@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ntw/static/css/main.ff37f1a6.css",
+    "main.js": "/ntw/static/js/main.b1b00e93.js",
+    "index.html": "/ntw/index.html",
+    "main.ff37f1a6.css.map": "/ntw/static/css/main.ff37f1a6.css.map",
+    "main.b1b00e93.js.map": "/ntw/static/js/main.b1b00e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff37f1a6.css",
+    "static/js/main.b1b00e93.js"
+  ]
+}
