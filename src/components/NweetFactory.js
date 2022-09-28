@@ -50,7 +50,9 @@ const NweetFactory = ({ userObj }) => {
     };
     reader.readAsDataURL(theFile);
   };
-  const onClearAttachment = () => setAttachment("");
+  const onClearAttachment = () => {
+    setAttachment("");
+  };
   return (
     <form onSubmit={onSubmit} className="factoryForm">
       <div className="factoryInput__container">
